@@ -1,0 +1,120 @@
+Which of the following is a valid C variable name?
+1variable
+_variable
+int
+float
+B
+Which operator is used to get the remainder of a division in C?
+%
+/
+*
++
+A
+Which keyword is used to declare a constant in C?
+const
+constant
+final
+immutable
+A
+What is the size of an `int` on most 32-bit systems?
+2
+4
+8
+1
+B
+Which loop is guaranteed to run at least once?
+for
+while
+do-while
+goto
+C
+What is the correct format specifier for `float` in printf?
+%d
+%f
+%c
+%lf
+B
+Which header file is needed for `printf` and `scanf`?
+math.h
+stdio.h
+stdlib.h
+string.h
+B
+Which function is used to allocate memory in C?
+alloc()
+malloc()
+memory()
+calloc()
+B
+Which of these is not a valid data type in C?
+int
+bool
+float
+double
+B
+What is the output of `5 / 2` in C?
+2.5
+2
+2.0
+3
+B
+What is the correct way to comment a single line in C?
+<!-- comment -->
+# comment
+// comment
+/* comment */
+C
+Which function is used to compare two strings?
+strcpy()
+strcmp()
+strcat()
+strlen()
+B
+Which symbol is used to access the value at an address?
+&
+*
+%
+@
+B
+Which statement is used to exit a loop early?
+exit
+return
+break
+stop
+C
+What is the return type of the `main` function?
+void
+int
+float
+char
+B
+Which data type is best for storing 1 or 0?
+char
+int
+bool
+short
+C
+Which of the following is used to define a structure?
+struct
+structure
+define
+record
+A
+Which operator is used for logical AND in C?
+&
+&&
+AND
+and
+B
+Which function finds the length of a string?
+strlen()
+length()
+strcount()
+size()
+A
+What is the default value of an uninitialized local variable in C?
+0
+Garbage value
+NULL
+Empty string
+B
